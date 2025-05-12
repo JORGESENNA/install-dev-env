@@ -1,3 +1,28 @@
+🚀 Como Usar o Script:
+Criar o Arquivo:
+
+bash
+Copiar
+Editar
+nano install-dev-env.sh
+Colar o Conteúdo:
+Cole o código do script dentro do arquivo.
+
+Dar Permissão de Execução:
+
+bash
+Copiar
+Editar
+chmod +x install-dev-env.sh
+Executar o Script:
+
+bash
+Copiar
+Editar
+./install-dev-env.sh
+
+
+
 # Instalação do Ambiente de Desenvolvimento com Git, Docker e Docker Compose no Debian
 
 Este guia fornece um passo a passo para configurar um ambiente de desenvolvimento completo no Debian, incluindo Git, Docker, Docker Compose e geração de chave SSH para integração com GitHub.
