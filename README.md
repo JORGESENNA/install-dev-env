@@ -1,25 +1,25 @@
-🚀 Como Usar o Script:
-Criar o Arquivo:
 
-bash
-Copiar
-Editar
+🚀 Como Usar o Script:
+
+
+1- Criar o Arquivo:
+
+```bash
 nano install-dev-env.sh
-Colar o Conteúdo:
+```
+2- Colar o Conteúdo:
 Cole o código do script dentro do arquivo.
 
-Dar Permissão de Execução:
+3- Dar Permissão de Execução:
 
-bash
-Copiar
-Editar
+```bash
 chmod +x install-dev-env.sh
-Executar o Script:
+```
+4- Executar o Script:
 
-bash
-Copiar
-Editar
+```bash
 ./install-dev-env.sh
+```
 
 
 
